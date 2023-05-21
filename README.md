@@ -32,7 +32,7 @@
 | `執手尾` | zap1 sau2 mei5 |
 | `掟個` | deng3 go3 |
 | `來睇下` | lai4 tai2 haa5 |
-| `從` | chung4 |
+| `從` | cung4 |
 | `行到` | haang4 dou2 |
 | `行曬` | haang4 saai3 |
 | `佢個老豆叫` | keoi5 go3 lou5 dau6 giu3 |
@@ -40,7 +40,7 @@
 | `明白未啊` | ming4 baak6 mei6 aa1 |
 | `落Order` | lok6 `Order` |
 | `飲茶先啦` | jam2 caa4 sin1 laa1 |
-| `拍住上` | paak3 zyu6 seung5 |
+| `拍住上` | paak3 zyu6 soeng5 |
 | `埋堆` | maai4 deui1 |
 | `Share下` | `Share` haa6 |
 | `係` | hai6 |
